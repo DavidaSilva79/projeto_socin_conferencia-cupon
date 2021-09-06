@@ -12,7 +12,7 @@ O conferencia-cupom é um aplicativo para o sistema android de conferência de c
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o Econect-Server](#-Como-executar-o-Conferencia-Cupom)
+- [Como executar o Conferencia-Cupom](#-Como-executar-o-Conferencia-Cupom)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
