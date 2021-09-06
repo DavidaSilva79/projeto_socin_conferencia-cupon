@@ -5,14 +5,14 @@
                                                                                                                                                  
 <p align="center"> 
 
-## 💻 Econect-Server
+## 💻 Conferencia-Cupom
                  
-O econect-server é responsável por por fazer o intermédio entre o econect e a Orizon uma plataforma PBM (Programa de Benefício em Medicamentos) que oferece descontos para medicamentos. O econect faz uma requisição para o econect-server e o mesmo se comunica com a Orizon.
+O conferencia-cupom é um aplicativo para o sistema android de conferência de cupons através do QRCode contido no cupom de nfce, após o cupom ser gerado o cliente o usa para retirar a mercadoria na área de expedição, com intuito de validar na hora da retirada se o cupom é valido ou se já foi retirada a mercadoria e feita a conferência do mesmo usando este aplicativo através do QRCode .
               
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o Econect-Server](#-Como-executar-o-Econect-Server)
+- [Como executar o Econect-Server](#-Como-executar-o-Conferencia-Cupom)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
@@ -56,7 +56,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </ul>                            
                                                                                                                                        
 
-## 🚀 Como executar o Econect-Server
+## 🚀 Como executar o Conferencia-Cupom
                                                                                                                  
 ### Pré-requisitos
 
@@ -64,7 +64,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, 
 além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Intellij em ambos é necessário instalar e configurar o lombok.
 
 
-### 🎲 Executando o Econect-Server
+### 🎲 Executando o Conferencia-Cupom
                                                                                                                       
 ## Instruções de Configuração
 ### Configurações 
@@ -319,7 +319,7 @@ Lista de Plug-ins utilizados:
                                                                                                         
 ## 💫 Features
 
-O conteúdo referente as features do Econect-Server se encontra no local  do link abaixo.
+O conteúdo referente as features do Conferencia-Cupom se encontra no local  do link abaixo.
 
 https://socincompany.atlassian.net/wiki/spaces/E
 
