@@ -26,6 +26,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <li><a href="https://www.java.com">
     <img src="https://img.shields.io/badge/Java%2012.0-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a></li>
+   <li> <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="postgresql">
+  </a> </li>                                                                                                                       
    <li><a href="https://sites.google.com/site/gson/gson-user-guide">
     <img src="https://img.shields.io/badge/gson_2.8.5-007CFF?&style=for-the-badge&logo=&logoColor=white" alt="gson">
   </a></li>
@@ -33,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="h2database">
   </a></li>
    <li> <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="postgresql">
+    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="postgresql">
   </a> </li>                                                                                                                     
 </ul>                            
                                                                                                                                        
