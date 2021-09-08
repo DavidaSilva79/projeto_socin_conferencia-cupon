@@ -24,19 +24,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
                  
 <ul> 
   <li><a href="https://www.java.com">
-    <img src="https://img.shields.io/badge/Java%2012.0-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
+    <img src="https://img.shields.io/badge/Java%201.8-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">
   </a></li>
-   <li> <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="postgresql">
+   <li> <a href="hhttps://developer.android.com/kotlin?hl=pt">
+    <img src="https://img.shields.io/badge/Kotlin_1.3.61-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="postgresql">
   </a> </li>                                                                                                                       
    <li><a href="https://sites.google.com/site/gson/gson-user-guide">
     <img src="https://img.shields.io/badge/gson_2.8.5-007CFF?&style=for-the-badge&logo=&logoColor=white" alt="gson">
   </a></li>
-   <li><a href="https://www.h2database.com/html/main.html">
+   <li><a href="https://www.android.com/intl/pt-BR_br/">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="h2database">
   </a></li>
-   <li> <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="postgresql">
+  <li><a href="https://junit.org/junit5/">
+    <img src="https://img.shields.io/badge/Junit_4.12-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit">
+  </a></li>                                                                                                                          
+   <li> <a href="https://gradle.org/">
+    <img src="https://img.shields.io/badge/gradle_3.6.1-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="postgresql">
   </a> </li>                                                                                                                     
 </ul>                            
                                                                                                                                        
